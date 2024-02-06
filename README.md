@@ -1,7 +1,7 @@
 ### :man_technologist: About Me :
 CyberError :( ,a redteam developer
 
-一个业余安全爱好者。从路障的防御和进攻两端解决IT安全问题已超过999年
+一个业余安全爱好者。
 
 ⚡ 欢迎来到我的 Github 巢穴，在那里您可以找到各种与安全相关的工具，希望质量不错。
 
