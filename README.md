@@ -1,7 +1,9 @@
 ### :man_technologist: About Me :
-CyberError :( 
+CyberError :( 一个业余爱好者。
 
-一个业余爱好者。
+<p>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/849855774angel.png" alt="Your Image Badge" />
+</p>
 
 ⚡ 欢迎来到我的 Github 巢穴，在那里您可以看我我所编写的奇奇怪怪的东西
 
@@ -15,9 +17,10 @@ Cheers!
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-
+  
   ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visualstudio&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
